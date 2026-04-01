@@ -53,6 +53,5 @@ Query params:
 Example:
 `/history?page=1&limit=10&q=fever`
 
-## Disclaimer
-This API returns informational guidance only and is **not** a medical diagnosis.
+
 
